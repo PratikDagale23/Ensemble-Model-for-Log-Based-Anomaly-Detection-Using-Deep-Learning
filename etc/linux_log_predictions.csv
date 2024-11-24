@@ -1,0 +1,145 @@
+Timestamp,Host,Log_Level,Message,Host_Encoded,Log_Level_Encoded,Prediction
+Jun 15 04:06:20,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jun 16 04:10:24,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jun 17 04:03:36,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jun 18 04:07:06,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jun 19 04:08:57,combo,cups,"cupsd shutdown succeeded",0,1,0
+Jun 19 04:09:02,combo,cups,"cupsd startup succeeded",0,1,1
+Jun 19 04:09:11,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jun 20 04:02:55,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jun 21 04:06:59,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jun 22 04:06:00,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jun 23 04:05:30,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jun 24 04:05:35,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jun 25 04:04:26,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jun 26 04:04:19,combo,cups,"cupsd shutdown succeeded",0,1,0
+Jun 26 04:04:24,combo,cups,"cupsd startup succeeded",0,1,1
+Jun 26 04:04:31,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jun 27 04:02:49,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jun 28 04:03:17,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jun 29 04:03:12,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jun 30 04:03:43,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul  1 04:05:19,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul  2 04:04:03,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul  3 04:07:49,combo,cups,"cupsd shutdown succeeded",0,1,0
+Jul  3 04:07:55,combo,cups,"cupsd startup succeeded",0,1,1
+Jul  3 04:08:03,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul  4 04:03:08,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul  5 04:03:18,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul  6 04:03:10,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul  7 04:04:33,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul  8 04:04:20,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul  9 04:04:25,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul 10 04:04:33,combo,cups,"cupsd shutdown succeeded",0,1,0
+Jul 10 04:04:39,combo,cups,"cupsd startup succeeded",0,1,1
+Jul 10 04:04:46,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul 11 04:03:05,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul 12 04:03:42,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul 13 04:04:45,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul 14 04:08:25,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul 15 04:05:03,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul 16 04:07:34,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul 17 04:08:10,combo,cups,"cupsd shutdown succeeded",0,1,0
+Jul 17 04:08:16,combo,cups,"cupsd startup succeeded",0,1,1
+Jul 17 04:08:23,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul 18 04:03:25,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul 19 04:03:45,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul 20 04:05:04,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul 21 04:11:28,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul 22 04:07:47,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul 23 04:09:37,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul 24 04:20:21,combo,cups,"cupsd shutdown succeeded",0,1,0
+Jul 24 04:20:26,combo,cups,"cupsd startup succeeded",0,1,1
+Jul 24 04:20:42,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul 25 04:04:00,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul 26 04:05:24,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul 27 04:16:09,combo,logrotate,"ALERT exited abnormally with [1]",0,4,0
+Jul 27 14:41:57,combo,syslog,"syslogd startup succeeded",0,12,1
+Jul 27 14:41:57,combo,kernel,"klogd 1.4.1, log source = /proc/kmsg started.",0,3,0
+Jul 27 14:41:57,combo,kernel,"Linux version 2.6.5-1.358 (bhcompile@bugs.build.redhat.com) (gcc version 3.3.3 20040412 (Red Hat Linux 3.3.3-7)) #1 Sat May 8 09:04:50 EDT 2004",0,3,1
+Jul 27 14:41:57,combo,kernel,"BIOS-provided physical RAM map:",0,3,0
+Jul 27 14:41:57,combo,kernel,"BIOS-e820: 0000000000000000 - 00000000000a0000 (usable)",0,3,0
+Jul 27 14:41:57,combo,kernel,"BIOS-e820: 00000000000f0000 - 0000000000100000 (reserved)",0,3,0
+Jul 27 14:41:57,combo,kernel,"BIOS-e820: 0000000000100000 - 0000000007eae000 (usable)",0,3,0
+Jul 27 14:41:57,combo,kernel,"BIOS-e820: 0000000007eae000 - 0000000008000000 (reserved)",0,3,0
+Jul 27 14:41:57,combo,kernel,"BIOS-e820: 00000000ffb00000 - 0000000100000000 (reserved)",0,3,0
+Jul 27 14:41:57,combo,kernel,"0MB HIGHMEM available.",0,3,1
+Jul 27 14:41:57,combo,kernel,"126MB LOWMEM available.",0,3,1
+Jul 27 14:41:57,combo,kernel,"zapping low mappings.",0,3,1
+Jul 27 14:41:57,combo,syslog,"klogd startup succeeded",0,12,1
+Jul 27 14:41:57,combo,kernel,"On node 0 totalpages: 32430",0,3,0
+Jul 27 14:41:57,combo,kernel,"DMA zone: 4096 pages, LIFO batch:1",0,3,1
+Jul 27 14:41:57,combo,kernel,"Normal zone: 28334 pages, LIFO batch:6",0,3,1
+Jul 27 14:41:57,combo,irqbalance,"irqbalance startup succeeded",0,2,1
+Jul 27 14:41:57,combo,kernel,"HighMem zone: 0 pages, LIFO batch:1",0,3,0
+Jul 27 14:41:57,combo,kernel,"DMI 2.3 present.",0,3,1
+Jul 27 14:41:57,combo,kernel,"ACPI disabled because your bios is from 2000 and too old",0,3,0
+Jul 27 14:41:57,combo,kernel,"You can enable it with acpi=force",0,3,1
+Jul 27 14:41:57,combo,kernel,"Built 1 zonelists",0,3,1
+Jul 27 14:41:57,combo,kernel,"Kernel command line: ro root=LABEL=/ rhgb quiet",0,3,0
+Jul 27 14:41:57,combo,kernel,"mapped 4G/4G trampoline to ffff3000.",0,3,0
+Jul 27 14:41:57,combo,kernel,"Initializing CPU#0",0,3,1
+Jul 27 14:41:57,combo,kernel,"CPU 0 irqstacks, hard=02345000 soft=02344000",0,3,0
+Jul 27 14:41:57,combo,portmap,"portmap startup succeeded",0,7,1
+Jul 27 14:41:57,combo,kernel,"PID hash table entries: 512 (order 9: 4096 bytes)",0,3,1
+Jul 27 14:41:57,combo,kernel,"Detected 731.219 MHz processor.",0,3,1
+Jul 27 14:41:57,combo,kernel,"Using tsc for high-res timesource",0,3,0
+Jul 27 14:41:58,combo,nfslock,"rpc.statd startup succeeded",0,6,1
+Jul 27 14:41:58,combo,kernel,"Console: colour VGA+ 80x25",0,3,0
+Jul 27 14:41:58,combo,kernel,"Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)",0,3,0
+Jul 27 14:41:58,combo,kernel,"Calibrating delay loop... 1445.88 BogoMIPS",0,3,0
+Jul 27 14:41:58,combo,kernel,"Security Scaffold v1.0.0 initialized",0,3,0
+Jul 27 14:41:58,combo,kernel,"SELinux:  Initializing.",0,3,1
+Jul 27 14:41:58,combo,kernel,"SELinux:  Starting in permissive mode",0,3,0
+Jul 27 14:41:58,combo,kernel,"There is already a security framework initialized, register_security failed.",0,3,0
+Jul 27 14:41:58,combo,kernel,"Failure registering capabilities with the kernel",0,3,0
+Jul 27 14:41:58,combo,kernel,"selinux_register_security:  Registering secondary module capability",0,3,0
+Jul 27 14:41:58,combo,kernel,"Capability LSM initialized",0,3,1
+Jul 27 14:41:58,combo,rpcidmapd,"rpc.idmapd startup succeeded",0,10,1
+Jul 27 14:41:58,combo,kernel,"Dentry cache hash table entries: 16384 (order: 4, 65536 bytes)",0,3,1
+Jul 27 14:41:58,combo,kernel,"Inode-cache hash table entries: 8192 (order: 3, 32768 bytes)",0,3,0
+Jul 27 14:41:58,combo,kernel,"Mount-cache hash table entries: 512 (order: 0, 4096 bytes)",0,3,1
+Jul 27 14:41:58,combo,kernel,"CPU: L1 I cache: 16K, L1 D cache: 16K",0,3,0
+Jul 27 14:41:58,combo,kernel,"CPU: L2 cache: 256K",0,3,0
+Jul 27 14:41:58,combo,kernel,"Intel machine check architecture supported.",0,3,0
+Jul 27 14:41:58,combo,kernel,"Intel machine check reporting enabled on CPU#0.",0,3,0
+Jul 27 14:41:58,combo,kernel,"CPU: Intel Pentium III (Coppermine) stepping 06",0,3,0
+Jul 27 14:41:58,combo,kernel,"Enabling fast FPU save and restore... done.",0,3,0
+Jul 27 14:41:58,combo,kernel,"Enabling unmasked SIMD FPU exception support... done.",0,3,0
+Jul 27 14:41:58,combo,kernel,"Checking 'hlt' instruction... OK.",0,3,0
+Jul 27 14:41:58,combo,random,"Initializing random number generator:  succeeded",0,8,0
+Jul 27 14:41:58,combo,kernel,"POSIX conformance testing by UNIFIX",0,3,1
+Jul 27 14:41:58,combo,kernel,"NET: Registered protocol family 16",0,3,0
+Jul 27 14:41:58,combo,kernel,"PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1",0,3,0
+Jul 27 14:41:58,combo,kernel,"PCI: Using configuration type 1",0,3,0
+Jul 27 14:41:58,combo,kernel,"mtrr: v2.0 (20020519)",0,3,0
+Jul 27 14:41:58,combo,kernel,"ACPI: Subsystem revision 20040326",0,3,0
+Jul 27 14:41:58,combo,kernel,"ACPI: Interpreter disabled.",0,3,1
+Jul 27 14:41:58,combo,kernel,"Linux Plug and Play Support v0.97 (c) Adam Belay",0,3,0
+Jul 27 14:41:58,combo,rc,"Starting pcmcia:  succeeded",0,9,1
+Jul 27 14:41:58,combo,kernel,"usbcore: registered new driver usbfs",0,3,0
+Jul 27 14:41:58,combo,kernel,"usbcore: registered new driver hub",0,3,0
+Jul 27 14:41:58,combo,kernel,"ACPI: ACPI tables contain no PCI IRQ routing entries",0,3,0
+Jul 27 14:41:59,combo,kernel,"PCI: Invalid ACPI-PCI IRQ routing table",0,3,0
+Jul 27 14:41:59,combo,kernel,"PCI: Probing PCI hardware",0,3,0
+Jul 27 14:41:59,combo,kernel,"PCI: Probing PCI hardware (bus 00)",0,3,1
+Jul 27 14:41:59,combo,kernel,"Transparent bridge - 0000:00:1e.0",0,3,1
+Jul 27 14:41:59,combo,kernel,"PCI: Using IRQ router PIIX/ICH [8086/2410] at 0000:00:1f.0",0,3,0
+Jul 27 14:41:59,combo,kernel,"apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac)",0,3,0
+Jul 27 14:41:59,combo,kernel,"audit: initializing netlink socket (disabled)",0,3,0
+Jul 27 14:41:54,combo,sysctl,"kernel.core_uses_pid = 1 ",0,11,0
+Jul 27 14:41:59,combo,bluetooth,"hcid startup succeeded",0,0,0
+Jul 27 14:41:59,combo,kernel,"audit(1122475266.4294965305:0): initialized",0,3,1
+Jul 27 14:41:54,combo,network,"Setting network parameters:  succeeded ",0,5,1
+Jul 27 14:41:59,combo,bluetooth,"sdpd startup succeeded",0,0,0
+Jul 27 14:41:59,combo,kernel,"Total HugeTLB memory allocated, 0",0,3,1
+Jul 27 14:41:54,combo,network,"Bringing up loopback interface:  succeeded ",0,5,1
+Jul 27 14:41:59,combo,kernel,"VFS: Disk quotas dquot_6.5.1",0,3,1
+Jul 27 14:41:59,combo,kernel,"Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)",0,3,1
+Jul 27 14:41:59,combo,kernel,"SELinux:  Registering netfilter hooks",0,3,0
+Jul 27 14:41:59,combo,kernel,"Initializing Cryptographic API",0,3,1
+Jul 27 14:41:59,combo,kernel,"pci_hotplug: PCI Hot Plug PCI Core version: 0.5",0,3,0
+Jul 27 14:42:00,combo,kernel,"isapnp: Scanning for PnP cards...",0,3,0
+Jul 27 14:42:00,combo,kernel,"isapnp: No Plug & Play device found",0,3,0
+Jul 27 14:42:00,combo,kernel,"Real Time Clock Driver v1.12",0,3,0
+Jul 27 14:42:00,combo,kernel,Linux agpgart interface v0.100 (c) Dave Jones,0,3,0
