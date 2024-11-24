@@ -1,4 +1,10 @@
+# Ignore the virtual environment
 myenv/
+
+# Ignore temporary and test directories
 etc/
-test_logs/
 temp_logs/
+test_logs/
+
+# Ignore training dataset folder
+dataset_training/
