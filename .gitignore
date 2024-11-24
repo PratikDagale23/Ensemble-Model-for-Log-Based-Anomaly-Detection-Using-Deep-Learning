@@ -1,2 +1,4 @@
-etc temp_logs
 myenv/
+etc/
+test_logs/
+temp_logs/
